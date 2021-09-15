@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    background-color: #5d935d;
+}
+nav{
+    background-color: #ae97e3;
+    height: 80px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.75s;
+    margin: 20px;
+    float: right;
+    background-color: #ae97e3;
+}
+a:hover{
+    text-decoration: underline;
+    font-size: 25px;
+}
+img{
+    height: 200px;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 7px;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    margin-bottom: 20px;
+}
